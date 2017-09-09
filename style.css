@@ -47,7 +47,7 @@ ul {
 li a{
 display: block;
 color: white;
-padding: 7px 10px;
+padding: 5px 5pxx;
 text-decoration: none;
 
 }
@@ -148,7 +148,7 @@ div.desc {
 	
 }
 .me{
-	margin-left: 0%;
+	margin-left: 3%;
 	margin-top: 3%;
 	color: white;
 }
@@ -160,14 +160,14 @@ div.desc {
 }
 
 .aboutme{
-	margin-left: 50px;
-	margin-top: 32px;
+	margin-left: 70px;
+	margin-top: 10px;
 	font-color: white;
 }
 
 .myself{
 	margin-left: 10%;
-	margin-top: -15%;
+	margin-top: 0%;
 	font-size: 35px;
 }
 
