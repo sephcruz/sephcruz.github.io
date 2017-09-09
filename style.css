@@ -159,14 +159,14 @@ div.desc {
 }
 
 .aboutme{
-	margin-left: -95px;
+	margin-left: -125px;
 	margin-top: -32px;
 	font-color: white;
 }
 
 .myself{
 	margin-left: 30%;
-	margin-top: 165%;
+	margin-top: -165%;
 	font-size: 35px;
 }
 
