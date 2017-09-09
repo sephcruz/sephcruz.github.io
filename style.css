@@ -40,14 +40,14 @@ ul {
 	padding: 0;
 	background-color: #111;
 	width: auto;
-	font-size: 12px;
+	font-size: 8px;
 
 }
 
 li a{
 display: block;
 color: white;
-padding: 10px 16px;
+padding: 5px 10px;
 text-decoration: none;
 
 }
