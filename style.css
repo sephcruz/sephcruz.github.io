@@ -150,8 +150,8 @@ div.desc {
 	margin-left: 3%;
 	margin-top: 3%;
 	color: white;
-	width: 50%;
-	height: 50%;
+	width: 10%;
+	height: 10%;
 }
 
 
@@ -159,7 +159,7 @@ div.desc {
 	margin-left: 20px;
 	margin-top: 10px;
 	font-color: white;
-	text-align: center;
+	text-align: left;
 }
 
 .myself{
