@@ -157,6 +157,13 @@ div.desc {
 	font-size: 35px;
 }
 
+.outputs{
+	font-size: 20px;
+	font-color: white;
+	margin-left: 30%;
+	margin-top: -35%;
+}
+
 
 /* end content */
 
@@ -173,6 +180,13 @@ div.desc {
 	color: white;
 	border-color: #111;
 	
+}
+	
+.outputs{
+	font-size: 20px;
+	font-color: white;
+	margin-left: 5%;
+	margin-top: 0%;
 }
 .me{
 	margin-left: 3%;
