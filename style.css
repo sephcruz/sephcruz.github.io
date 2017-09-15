@@ -105,14 +105,14 @@ div.gallery:hover {
 }
 
 div.gallery img {
-    width: 200%;
-    height: 150%;
+    width: 250%;
+    height: 100%;
 }
 
 div.desc {
     padding: 25px;
     text-align: center;
-	font-size: 15px;
+	font-size: 13px;
 }
 
 }
