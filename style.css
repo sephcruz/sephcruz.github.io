@@ -63,7 +63,6 @@ background-color: #333;
 /* end first menu */
 
 /* picture */
-@media only screen and (min-width: 250px){
 div.gallery {
     margin: 5px;
     border: 1px solid #ccc;
@@ -87,7 +86,6 @@ div.desc {
     text-align: center;
 }
 
-}
 
 /* end picture */
 
