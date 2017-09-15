@@ -151,6 +151,8 @@ div.desc {
 	margin-left: 3%;
 	margin-top: 3%;
 	color: white;
+	width: 50%;
+	height: 50%;
 }
 .intro{
 	margin-left: 215px;
@@ -160,15 +162,16 @@ div.desc {
 }
 
 .aboutme{
-	margin-left: 70px;
+	margin-left: 20px;
 	margin-top: 10px;
 	font-color: white;
+	text-align: center;
 }
 
 .myself{
-	margin-left: 10%;
+	margin-left: 5%;
 	margin-top: 0%;
-	font-size: 35px;
+	font-size: 20px;
 }
 
 }
