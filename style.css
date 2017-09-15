@@ -91,6 +91,36 @@ div.desc {
 
 /* end picture */
 
+/* picture  2*/
+@media only screen and (min-width: 250px){
+div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 50%;
+	margin-left: 26%;
+	color: white;
+}
+
+div.gallery:hover {
+    border: 1px solid #777;
+}
+
+div.gallery img {
+    width: 200%;
+    height: 150%;
+}
+
+div.desc {
+    padding: 25px;
+    text-align: center;
+	font-size: 15px;
+}
+
+}
+
+/* end picture2 */
+
 /* content */
 
 #content{
