@@ -178,6 +178,17 @@ div.desc {
 	margin-top: -5%;
 }
 
+.myphone{
+	font-size: 20px;
+	margin-left: -25%
+	color: white;
+}
+
+.number{
+	font-size: 20px;
+	margin-left: -25%
+	color: white;
+}
 /* end content */
 
 
@@ -237,6 +248,17 @@ div.desc {
 
 .contactme{
 	font-size: 15px;
+}
+	.myphone{
+	font-size: 20px;
+	margin-left: -25%
+	color: white;
+}
+
+.number{
+	font-size: 20px;
+	margin-left: -25%
+	color: white;
 }
 }
 /* end content  2*/
