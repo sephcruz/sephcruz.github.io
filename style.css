@@ -267,9 +267,13 @@ div.desc {
 .contactme{ 
 	margin-left: 5%;
 	font-size: 20px;
-
 }
-
+.contactmyphone{
+	font-size: 15px;
+}
+.number{
+	font-size: 15px
+}
 .email{
 	height: 15%;
 	width: 15%;
