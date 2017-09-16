@@ -68,8 +68,9 @@ div.gallery {
     border: 1px solid #ccc;
     float: left;
     width: 50%;
-	margin-left: 10%;
-	color: white;
+    margin-left: 10%;
+    color: white;
+    margin-top: 20%;	
 }
 
 div.gallery:hover {
