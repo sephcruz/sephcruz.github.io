@@ -153,7 +153,7 @@ div.desc {
 }
 
 .myself{
-	margin-left: 40%;
+	margin-left: 38%;
 	margin-top: -35%;
 	font-size: 35px;
 }
@@ -179,14 +179,14 @@ div.desc {
 }
 
 .myphone{
-	font-size: 15px;
+	font-size: 20px;
 	margin-left: -25%
 	color: white;
 }
 
 .number{
 
-	font-size: 15px;
+	font-size: 20px;
 	margin-left: -25%
 	color: white;
 
@@ -254,13 +254,13 @@ div.desc {
 }
 
 .myphone{
-	font-size: 20px;
+	font-size: 15px;
 	margin-left: 5%;
 	color: white;
 }
 
 .number{
-	font-size: 20px;
+	font-size: 15px;
 	margin-left: 5%;
 	color: white;
 }
