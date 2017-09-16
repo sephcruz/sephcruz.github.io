@@ -180,14 +180,14 @@ div.desc {
 
 .myphone{
 	font-size: 20px;
-	margin-left: -25%
-	color: white;
+	margin-left: -25%;
+	font-color: white;
 }
 
 .number{
 	font-size: 20px;
-	margin-left: -25%
-	color: white;
+	margin-left: -25%;
+	font-color: white;
 }
 /* end content */
 
